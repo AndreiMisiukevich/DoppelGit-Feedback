@@ -1,6 +1,6 @@
 # DoppelGit Feedback
 
-This repository is the public issue tracker for **DoppelGit** — a Chrome extension that lets you submit GitHub pull requests, comments, and issues as alternate personas.
+This repository is the public issue tracker for [DoppelGit](https://chromewebstore.google.com/detail/doppelgit/cchmcbhikffeiaenljphpmekkplpkibn) — a Chrome extension that lets you submit GitHub pull requests, comments, and issues as alternate personas.
 
 🌐 **Website:** [andreiMisiukevich.github.io/DoppelGit](https://andreimisiukevich.github.io/DoppelGit/)
 
